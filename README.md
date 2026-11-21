@@ -26,8 +26,18 @@ I work at the intersection of **data analytics**, **model quality**, and **engin
 | **Applied ML** | Tabular models, evaluation, comparison, lightweight serving |
 | **Engineering background** | Traceability, validation evidence, cross-team communication |
 
-**Core stack**  
-`Python` · `SQL` · `PostgreSQL` · `Pandas` · `Power BI` · `Streamlit` · `scikit-learn` · `FastAPI` · `Git` · `AWS`
+**Core stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -41,7 +51,7 @@ Short description: Ingest and prepare data, design a relational model, enforce q
 | | |
 |---|---|
 | **Outcome** | Live analytics app with ETL, DQ logic and dashboard presentation |
-| **Tools** | Python, SQL, PostgreSQL concepts, Pandas, Streamlit, Parquet export |
+| **Tools** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Apache Parquet](https://img.shields.io/badge/Parquet-FEFEFE?style=flat-square&logo=apacheparquet&logoColor=black) |
 | **Links** | [Live demo](https://datavit.streamlit.app/) · [Repository](https://github.com/Mr-Gms-33/DataVita) |
 
 ---
@@ -54,7 +64,7 @@ Short description: Predict drink demand from real POS transaction logs to suppor
 | | |
 |---|---|
 | **Outcome** | Multiclass classification pipeline with evaluation and API-oriented delivery |
-| **Tools** | Python, Pandas, scikit-learn, Jupyter, FastAPI concepts, Docker-oriented packaging |
+| **Tools** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | **Links** | [Repository](https://github.com/Mr-Gms-33/ml-zoomcamp-coffee-sales) |
 
 ---
@@ -67,7 +77,7 @@ Short description: Support greenhouse / farm planning with structured data flows
 | | |
 |---|---|
 | **Outcome** | Bilingual MVP combining operational context and explainable financial analysis |
-| **Tools** | Python, structured data workflows, AI-assisted analysis with documentation focus |
+| **Tools** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenAI](https://img.shields.io/badge/AI%20analysis-412991?style=flat-square&logo=openai&logoColor=white) ![Markdown](https://img.shields.io/badge/Docs-000000?style=flat-square&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Links** | [Repository](https://github.com/Mr-Gms-33/greenhouse-farm-ai) |
 
 ---
@@ -80,17 +90,18 @@ Short description: Practical booking flows with a clean backend API and React fr
 | | |
 |---|---|
 | **Outcome** | Working booking application with clear API and UI separation |
-| **Tools** | FastAPI, Python, React, TypeScript/JS frontend stack, Git |
+| **Tools** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | **Links** | [Repository](https://github.com/Mr-Gms-33/barber-shop-booking) |
 
 ---
 
 ### 5. Additional practice work
+
 | Project | Focus | Tools |
 |---------|--------|--------|
-| [DTC ML Homework](https://github.com/Mr-Gms-33/DTC-ML-Homework) | Structured ML Zoomcamp exercises | Python, Jupyter, scikit-learn |
-| [Restaurant waitlist manager](https://github.com/Mr-Gms-33/restaurant-waitlist-manager) | Operational waitlist product | TypeScript |
-| [Household chores planner](https://github.com/Mr-Gms-33/household-chores) | Small planning utility | Python |
+| [DTC ML Homework](https://github.com/Mr-Gms-33/DTC-ML-Homework) | Structured ML Zoomcamp exercises | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| [Restaurant waitlist manager](https://github.com/Mr-Gms-33/restaurant-waitlist-manager) | Operational waitlist product | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [Household chores planner](https://github.com/Mr-Gms-33/household-chores) | Small planning utility | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
